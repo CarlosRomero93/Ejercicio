@@ -1,0 +1,101 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 120px;
+    
+}
+
+.h1_header{
+    color: rgba(1, 36, 96, 0.371);
+    text-align: center;
+    padding-top: 35px;
+    
+}
+
+.nav{
+    background-color: rgb(4, 48, 137);
+    width: 100%;
+    height: 40px;
+    
+}
+
+.nav_li{
+    display: flex;
+    padding: 10px;
+}
+
+.nav_a{
+text-decoration: none;
+color:rgb(234, 226, 226);
+margin: 100px;
+}
+
+.nav_a:hover{
+    color: brown;
+}
+
+.container{
+    background-color:;
+    display: flex;
+    width: 100%;
+    min-height: 80vh;
+}
+
+
+/*DEL DIV 1*/
+
+.div1{
+    width: 70%;
+    
+}
+
+.div1_h2{
+    color: rgb(244, 241, 241);
+    text-align: center;
+    padding: 30px;
+    
+}
+
+.div1_p{
+    
+    padding: 30px;
+    text-align: justify;
+}
+
+/*ASIDE*/
+
+.aside{
+
+    width: 30%;  
+    
+}
+
+.li_aside{
+    list-style: none;
+    margin: 10px;
+    
+}
+
+.a_aside{
+    text-decoration:;
+    color: rgb(84, 63, 244);
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.h3_aside{
+    text-align: center;
+    padding-top: 35px;
+}
+
+footer{
+    background-color: rgb(79, 15, 4);
+    height: 200px;
+    color: aliceblue;
+}
